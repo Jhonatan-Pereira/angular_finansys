@@ -1,0 +1,33 @@
+codigos
+
+ng --version
+
+ng s (ng serve)
+
+ng new finansys --routing --skip-tests
+
+ng g m pages/categories --routing
+
+ng g c pages/categories/category-list
+
+ng g c pages/categories/category-form
+
+ng g s pages/categories/shared/category
+
+
+Plugins/Bibliotecas angular
+
+npm i bootstrap jquery --save
+
+https://www.npmjs.com/package/angular-imask
+
+https://www.npmjs.com/package/angular-currency-format
+
+https://momentjs.com/
+
+https://www.npmjs.com/package/ngx-toastr
+
+https://www.primefaces.org/primeng/#/
+
+https://github.com/angular/in-memory-web-api
+npm i --save angular-in-memory-web-api
