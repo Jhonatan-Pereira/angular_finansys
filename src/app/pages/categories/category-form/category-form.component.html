@@ -30,6 +30,8 @@
     </div>
   </div>
 
+  <app-server-error-messages [server-error-messages]="serverErrorMessages"></app-server-error-messages>
+
   <div class="alert alert-danger mt-4" *ngIf="serverErrorMessages">
     <strong>Erro no servidor:</strong>
     <ul>
