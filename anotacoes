@@ -31,3 +31,8 @@ https://www.primefaces.org/primeng/#/
 
 https://github.com/angular/in-memory-web-api
 npm i --save angular-in-memory-web-api
+
+
+
+
+ng g c shared/components/form-field-error --inline-template
