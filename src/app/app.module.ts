@@ -13,7 +13,7 @@ import { ToastrModule } from 'ngx-toastr';
     CoreModule,
     CommonModule,
     AppRoutingModule,
-    ToastrModule.forRoot()
+    ToastrModule.forRoot(),
   ],
   providers: [],
   bootstrap: [AppComponent]
