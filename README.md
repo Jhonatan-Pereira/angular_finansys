@@ -1,27 +1,40 @@
-# Finansys
+<p align="center">
+  <h1 align="center">
+    Finansys
+  </h1>
+</p>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.4.
+![Viewport do Projeto][viewport1]
+![Viewport do Projeto][viewport2]
+![Viewport do Projeto][viewport3]
+![Viewport do Projeto][viewport4]
+![Viewport do Projeto][viewport5]
 
-## Development server
+## About
+Este Projeto foi desenvolvido para fins acadêmicos através do curso [Angular Avançado: Criando uma Arquitetura Master/Detail](https://www.udemy.com/course/angular-avancado/) criado por [Nonato Costa](https://www.udemy.com/user/costa-nonato/).
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+<a href="https://pt-br.reactjs.org/"><img src="https://img2.gratispng.com/20180806/giz/kisspng-logo-angularjs-computer-icons-font-angular-make-it-5b6868285d8ac7.5993652215335690643832.jpg" height="50px" width="210px"></a>
 
-## Code scaffolding
+## Getting Started
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Install
+```sh
+npm i
+```
 
-## Build
+### Development
+```sh
+npm run dev
+```
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Clique em [http://localhost:4200](http://localhost:4200) para visualizar no browser.
 
-## Running unit tests
+## Author
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Jhonatan Frade <jhonatanfrade.pereira@gmail.com>
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+[viewport1]: https://github.com/Jhonatan-Pereira/angular_finansys/blob/master/assets/viewport1.png?raw=true "Viewport 1"
+[viewport2]: https://github.com/Jhonatan-Pereira/angular_finansys/blob/master/assets/viewport2.png?raw=true "Viewport 2"
+[viewport3]: https://github.com/Jhonatan-Pereira/angular_finansys/blob/master/assets/viewport3.png?raw=true "Viewport 3"
+[viewport4]: https://github.com/Jhonatan-Pereira/angular_finansys/blob/master/assets/viewport4.png?raw=true "Viewport 4"
+[viewport5]: https://github.com/Jhonatan-Pereira/angular_finansys/blob/master/assets/viewport5.png?raw=true "Viewport 5"
