@@ -24,7 +24,7 @@ npm i
 
 ### Development
 ```sh
-npm run dev
+ng serve
 ```
 
 Clique em [http://localhost:4200](http://localhost:4200) para visualizar no browser.
